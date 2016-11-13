@@ -2,9 +2,9 @@
 
 ### Topics Covered
 
-This workshop begins your foray into developing your first Ansible playbook. In this workshop will exercise the following concepts:
+This workshop begins your foray into developing your first Ansible playbook. In this workshop you'll exercise the following concepts:
 
-* playbook struture
+* playbook structure
 * tasks
 * handlers
 * loops
